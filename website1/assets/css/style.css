@@ -1,3 +1,36 @@
 body{
-    background: #BDBDBD;
+    background: white;
+}
+form{
+    background-color:whitesmoke;
+    /*padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 70px;*/
+    }
+
+#txt_gris{
+    color:grey;
+}
+.card-img{
+    padding-top: 25%;
+    padding-bottom: 25%;
+}
+
+.card-body{
+    padding-top: 10%;
+}
+
+label{
+    margin-top: 30px;
+}
+input{
+    margin-top: 30px;
+}
+textarea{
+    margin-top: 30px;
+}
+button{
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
